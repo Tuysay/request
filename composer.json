@@ -1,0 +1,26 @@
+{
+    "name": "tuysay/request",
+    "description": "as",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tuysay\\Request\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tuyasy",
+            "email": "misha.gapeev.04@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Request\\": "src/"
+        }
+    }
+}
